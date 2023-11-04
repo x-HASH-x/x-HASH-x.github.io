@@ -92,6 +92,7 @@ main{
     border-radius: 20px;
 
     background-color: #000000;
+    text-decoration: none;
 }
 #our_administration{
     float: left;

@@ -1,0 +1,163 @@
+body{
+    margin: 0 !important;
+
+    background-color: #303030;
+}
+
+header{
+    width: 90%;
+    height: 100px;
+
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 20px;
+
+    background-color: #202020;
+}
+#logo{
+    float: left;
+    
+    width: 100px;
+    height: 100px;
+
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+nav{
+    float: right;
+    
+    width: auto;
+    height: 100px;
+
+    margin-right: 0px;
+}
+.option{
+    float: left;
+
+    width: 240px;
+    height: 40px;
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+    padding: 20px;
+
+    border-radius: 20px;
+
+    background-color: #000000;
+
+    font-family: Agbalumo;
+    text-align: center;
+    font-size: 20px;
+    color: #909090;
+
+    transition-duration: 1s;
+}
+.option:hover{
+    width: 244px;
+    height: 40px;
+
+    margin-top: 5px;
+    padding: 25px;
+
+    transition-duration: 1s;
+}
+
+main{
+    width: 90%;
+    height: 780px;
+
+    margin: auto;
+    margin-top: 20px;
+
+    border-radius: 20px;
+
+    background-color: #202020;
+
+    font-family: Agbalumo;
+    font-size: 20px;
+    text-align: justify;
+    color: #909090;
+}
+#art_1{
+    float: left;
+
+    width: 380px;
+    height: 660px;
+
+    margin-top: 40px;
+    margin-left: 40px;
+    padding: 20px;
+
+    border-radius: 20px;
+
+    background-color: #000000;
+}
+#our_administration{
+    float: left;
+
+    width: 93%;
+    height: 660px;
+
+    margin-top: 40px;
+    margin-left: 40px;
+    padding: 20px;
+}
+#about-us{
+    float: left;
+
+    width: 93%;
+    height: 660px;
+
+    margin-top: 40px;
+    margin-left: 40px;
+    padding: 20px;
+
+    border-radius: 20px;
+
+    background-color: #000000;
+}
+.administrator{
+    float: left;
+
+    width: 25%;
+    height: 620px;
+
+    margin-left: 70px;
+    padding: 20px;
+
+    border-radius: 20px;
+
+    background-color: #000000;
+}
+#intercontinental-discord-background{
+    float: right;
+
+    width: 1200px;
+    height: 700px;
+
+    margin-top: 40px;
+    margin-right: 40px;
+
+    border-radius: 20px;
+}
+
+footer{
+    width: 90%;
+    height: 50px;
+
+    margin: auto;
+    margin-top: 20px;
+
+    border-radius: 20px;
+
+    background-color: #202020;
+    text-align: center;
+}
+#copyright{
+    padding: 10px;
+    
+    font-family: Agbalumo;
+    color: #ffffff;
+    font-size: 20px;
+}
